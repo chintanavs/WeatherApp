@@ -4,4 +4,5 @@ This app makes use of Weather Api and shows the information of the current weath
 
 Here is the Screenshot of the App
 
-![image](https://user-images.githubusercontent.com/35973080/37663157-a1b6f2d4-2c7e-11e8-8749-d10abc7c185c.png)
+
+![image](https://user-images.githubusercontent.com/35973080/37663603-8d656256-2c7f-11e8-9d7d-17e7c3eb82f8.png)
